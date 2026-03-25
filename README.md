@@ -15,6 +15,9 @@
 
 ---
 
+
+
+
 ### 🛠️ Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,git" />
@@ -31,10 +34,12 @@
 ---
 
 ### 🌐 Connect with me
+![banner](./pic.jpg)
+
 <p>
   <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a>
 </p>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 ![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
 ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
