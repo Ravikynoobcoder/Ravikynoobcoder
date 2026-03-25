@@ -34,7 +34,7 @@
 ---
 
 ### 🌐 Connect with me
-![banner](./pic.jpg)
+![banner](./pic2.jpg)
 
 <p>
   <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a>
